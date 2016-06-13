@@ -22,11 +22,4 @@ before_script:
 script:
     - date
     - ls -al
-<<<<<<< HEAD
-<<<<<<< HEAD
     - make test
-=======
->>>>>>> d8d45af80ad92954f4267c67d67e925b2d7ccab5
-=======
-    - make test
->>>>>>> 7ba65f159e4170e1278d86eebb3d2acf21cce749
