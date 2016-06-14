@@ -1,3 +1,45 @@
+commit e8d4a0ac8d10134c47e45e5ddb44f46f11e25617
+Author: Chuqi Zhou <cz4792@utexas.edu>
+Date:   Tue Jun 14 17:32:33 2016 -0500
+
+    Close #7
+
+commit 7d001c708e1e382d55fcd4f443e9fe83b3412901
+Author: Chuqi Zhou <cz4792@utexas.edu>
+Date:   Tue Jun 14 17:06:03 2016 -0500
+
+    Another commit
+
+commit c20b5a40c227a74976a246c222b6370255ed065d
+Author: Chuqi Zhou <cz4792@utexas.edu>
+Date:   Tue Jun 14 17:04:35 2016 -0500
+
+    Another commit
+
+commit b41dc3ad49b7f6de62732dc8cfffffc6ffe7fd5a
+Author: Chuqi Zhou <cz4792@utexas.edu>
+Date:   Tue Jun 14 17:01:38 2016 -0500
+
+    Another commit
+
+commit 06df4c996cb3f944a2ba6a9c0aee6b64c20603e6
+Author: Chuqi Zhou <cz4792@utexas.edu>
+Date:   Tue Jun 14 16:59:52 2016 -0500
+
+    Another commit
+
+commit a65dfaa4ab61a434d0e282ece4e9ae42fa62e89c
+Author: Chuqi Zhou <cz4792@utexas.edu>
+Date:   Tue Jun 14 16:53:22 2016 -0500
+
+    Modify variable names
+
+commit a8018a0f453e8a80b3424efa9d5c7e2a1154c3ab
+Author: Chuqi Zhou <cz4792@utexas.edu>
+Date:   Tue Jun 14 16:49:00 2016 -0500
+
+    Close #16
+
 commit 0728fc001aa893655605ab5cda70afc1868163df
 Author: Chuqi Zhou <cz4792@utexas.edu>
 Date:   Tue Jun 14 15:22:20 2016 -0500

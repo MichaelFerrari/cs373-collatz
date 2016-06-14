@@ -26,6 +26,8 @@ def collatz_read(string):
 
 
 DICTION = {}  # A global cache diction
+
+
 def collatz_eval(i, j):
     """
     i the beginning of the range, inclusive
@@ -54,7 +56,7 @@ def collatz_eval(i, j):
         return 525
 
     # We loop through to find the number with the max cycle length
-    for k in range(i, j+1):
+    for k in range(i, j + 1):
         cyclen = 1
         num = k
 
@@ -78,7 +80,8 @@ def collatz_eval(i, j):
             if k == 1:
                 DICTION[num] = cyclen
 
-        # We replace the current max cycle length with a larger one, if it exists
+        # We replace the current max cycle length with a larger one, if it
+        # exists
         if max_cyclen < cyclen:
             max_cyclen = cyclen
     return max_cyclen
