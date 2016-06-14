@@ -61,6 +61,7 @@ def collatz_eval(i, j):
     for k in range(i, j+1):
         cyclen = 1
         n = k
+        
         if k in cache:
             cyclen = cache.get(k, None)
             k = 1
