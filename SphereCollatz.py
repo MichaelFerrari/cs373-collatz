@@ -61,7 +61,6 @@ def collatz_eval(i, j):
     for k in range(i, j+1):
         cyclen = 1
         n = k
-
         if k in cache:
             cyclen = cache.get(k, None)
             k = 1
@@ -81,6 +80,7 @@ def collatz_eval(i, j):
                     k = 1
             if k == 1:
                 cache[n] = cyclen
+        
         # We replace the current max cycle length with a larger one, 
         # if it exists
         if max_cyclen < cyclen:
