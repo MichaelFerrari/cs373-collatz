@@ -8,10 +8,10 @@ FILES :=                              \
     TestCollatz.out                   \
     TestCollatz.py
 
-#    collatz-tests/EID-RunCollatz.in   \
-#    collatz-tests/EID-RunCollatz.out  \
-#    collatz-tests/EID-TestCollatz.out \
-#    collatz-tests/EID-TestCollatz.py  \
+#    collatz-tests/cz4792-RunCollatz.in   \
+#    collatz-tests/cz4792-RunCollatz.out  \
+#    collatz-tests/cz4792-TestCollatz.out \
+#    collatz-tests/cz4792-TestCollatz.py  \
 
 ifeq ($(CI), true)
     COVERAGE := coverage
