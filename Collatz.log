@@ -1,0 +1,211 @@
+commit 0728fc001aa893655605ab5cda70afc1868163df
+Author: Chuqi Zhou <cz4792@utexas.edu>
+Date:   Tue Jun 14 15:22:20 2016 -0500
+
+    Close #11
+
+commit 05846dc3741e0712eef60ff19fa58dd6c3865c2d
+Author: Chuqi Zhou <cz4792@utexas.edu>
+Date:   Tue Jun 14 15:21:52 2016 -0500
+
+    Close #13
+
+commit 12a53010ebc4b036b58c78a98f13501c9f77d801
+Author: Chuqi Zhou <cz4792@utexas.edu>
+Date:   Tue Jun 14 15:20:25 2016 -0500
+
+    Close #14
+
+commit 865a1fd334226e9858cf2b70c9ef5d6f1376a0ca
+Author: Chuqi Zhou <cz4792@utexas.edu>
+Date:   Tue Jun 14 15:19:40 2016 -0500
+
+    Close 13
+
+commit 6716bcb3930ed1adff89dc273d2071a20a0da8dc
+Author: Chuqi Zhou <cz4792@utexas.edu>
+Date:   Tue Jun 14 15:00:40 2016 -0500
+
+    Close #12
+
+commit c2936d0350862067184c3f46591f11430fb195ee
+Author: Chuqi Zhou <cz4792@utexas.edu>
+Date:   Tue Jun 14 14:38:04 2016 -0500
+
+    Add SphereCollatz.py
+
+commit 70c0bb0faf577bf62b63d749fa6593fbb46cc44d
+Author: Chuqi Zhou <cz4792@utexas.edu>
+Date:   Mon Jun 13 17:15:41 2016 -0500
+
+    fix unit tests and write simple solution
+
+commit d992bf997740269313fb159f54fa74357b35c7bd
+Author: Chuqi Zhou <cz4792@utexas.edu>
+Date:   Mon Jun 13 17:08:31 2016 -0500
+
+    fix unit tests and write simple solution
+
+commit 338b50c342024d491c39cd7f78ed22c625b5bea1
+Author: Chuqi Zhou <cz4792@utexas.edu>
+Date:   Mon Jun 13 15:51:37 2016 -0500
+
+    replace
+
+commit 2af505b0717c85914545df4980f615899451895b
+Author: Chuqi Zhou <cz4792@utexas.edu>
+Date:   Mon Jun 13 15:44:26 2016 -0500
+
+    add
+
+commit ee72806023d47b093dc493b7076622068bcf513a
+Author: Chuqi Zhou <cz4792@utexas.edu>
+Date:   Mon Jun 13 15:36:23 2016 -0500
+
+    remove
+
+commit 589176f93a91169f10ab00145fbde8c5bdb1b366
+Author: Chuqi Zhou <cz4792@utexas.edu>
+Date:   Mon Jun 13 15:31:46 2016 -0500
+
+    add
+
+commit bb152f793a19a3d44edaa63622c09b5880419e40
+Author: Chuqi Zhou <cz4792@utexas.edu>
+Date:   Mon Jun 13 15:18:44 2016 -0500
+
+    delete
+
+commit 858969cd9cd0746aba061ad3653c8febd1a6f923
+Author: Chuqi Zhou <cz4792@utexas.edu>
+Date:   Mon Jun 13 15:15:49 2016 -0500
+
+    add
+
+commit 637aaa14eb29f43f48209752278a0a0459cd17c7
+Author: Chuqi Zhou <cz4792@utexas.edu>
+Date:   Mon Jun 13 15:14:02 2016 -0500
+
+    remove
+
+commit aca1138f8a73ae7499b8899e5f12aeadfb8a1c1f
+Merge: ab72ecd 7ba65f1
+Author: Chuqi Zhou <cz4792@utexas.edu>
+Date:   Mon Jun 13 00:09:35 2016 -0500
+
+    add
+
+commit ab72ecd9d0a3974c0b9b9d3501aba27c91872249
+Merge: cfc9d03 d8d45af
+Author: Chuqi Zhou <cz4792@utexas.edu>
+Date:   Mon Jun 13 00:02:15 2016 -0500
+
+    add
+
+commit 7ba65f159e4170e1278d86eebb3d2acf21cce749
+Author: Chuqi <cz4792@utexas.edu>
+Date:   Sun Jun 12 23:57:39 2016 -0500
+
+    Update .travis.yml
+
+commit d8d45af80ad92954f4267c67d67e925b2d7ccab5
+Author: Chuqi <cz4792@utexas.edu>
+Date:   Sun Jun 12 23:37:43 2016 -0500
+
+    Update .travis.yml
+
+commit 5487fdb758c418d3d71e5903580b584fbec78d1b
+Author: Chuqi <cz4792@utexas.edu>
+Date:   Sun Jun 12 23:25:13 2016 -0500
+
+    Update .travis.yml
+
+commit 9c52b96c82c38d0d8470f719c89b52d15e981f1e
+Author: Chuqi <cz4792@utexas.edu>
+Date:   Sun Jun 12 23:22:14 2016 -0500
+
+    Delete Collatz.py
+
+commit 7b537af71485dadbaff09416a916e1e43e51dc0e
+Author: Chuqi <cz4792@utexas.edu>
+Date:   Sun Jun 12 23:21:59 2016 -0500
+
+    Delete Collatz.html
+
+commit fa2035e02998a9b69d1972b1e6b73c78e63a7b96
+Author: Chuqi <cz4792@utexas.edu>
+Date:   Sun Jun 12 23:21:52 2016 -0500
+
+    Delete RunCollatz.py
+
+commit 7b5122006d7a3735234bb2d1862d47839fca2e26
+Author: Chuqi <cz4792@utexas.edu>
+Date:   Sun Jun 12 23:21:43 2016 -0500
+
+    Delete TestCollatz.py
+
+commit 107092630131cf8947726e883a4c6be4f6b9a457
+Author: Chuqi <cz4792@utexas.edu>
+Date:   Sun Jun 12 23:21:24 2016 -0500
+
+    Delete makefile
+
+commit cfc9d030bfa221a631c79f60fbbc649e2080d9db
+Author: Chuqi Zhou <cz4792@utexas.edu>
+Date:   Sun Jun 12 23:17:02 2016 -0500
+
+    another commit
+
+commit 2467326411ee055996ee10dda3c85c241fa5fc02
+Author: Chuqi <cz4792@utexas.edu>
+Date:   Sun Jun 12 23:10:59 2016 -0500
+
+    Add files via upload
+
+commit 6a6dcaf78f19185a803eefa9a786d2619edb3a27
+Author: Chuqi <cz4792@utexas.edu>
+Date:   Sun Jun 12 23:08:36 2016 -0500
+
+    Add files via upload
+
+commit 6badcccd0cf19cf893d3d2b846da6d1c96a3b29a
+Author: Chuqi <cz4792@utexas.edu>
+Date:   Sun Jun 12 23:04:42 2016 -0500
+
+    Add files via upload
+
+commit 464b091be3468527f2d4f7eecf7370262fba40eb
+Author: Chuqi <cz4792@utexas.edu>
+Date:   Sun Jun 12 23:02:40 2016 -0500
+
+    Add files via upload
+
+commit 03304c0674a1f9922e7e6b7abd7263c3f0f3b458
+Author: Chuqi Zhou <cz4792@utexas.edu>
+Date:   Sun Jun 12 22:46:42 2016 -0500
+
+    another commit
+
+commit e3effb4502074122bb63416230e9879ee29cdfc4
+Author: Chuqi <cz4792@utexas.edu>
+Date:   Sun Jun 12 22:43:40 2016 -0500
+
+    Update .travis.yml
+
+commit 738b6de6d73d03278bc50f973e4f77aa994cdafa
+Author: Chuqi <cz4792@utexas.edu>
+Date:   Sun Jun 12 22:25:29 2016 -0500
+
+    Create .travis.yml
+
+commit c0f84bf628112b9a4553e7b3412752d77f8e269a
+Author: Chuqi Zhou <cz4792@utexas.edu>
+Date:   Sun Jun 12 22:20:18 2016 -0500
+
+    another commit
+
+commit 098df7e329a92905209e4498b89529a1a362b8f8
+Author: MichaelFerrari <cz4792@utexas.edu>
+Date:   Tue Jun 7 16:18:06 2016 -0500
+
+    Initial commit
